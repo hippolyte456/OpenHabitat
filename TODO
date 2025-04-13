@@ -1,0 +1,33 @@
+🚀 Par où commencer ?
+
+Voici une proposition de plan d’action pour lancer ce projet efficacement :
+
+    Structuration du projet dans Blender
+
+        Définir une arborescence claire des objets (par étape, type de pièce, etc.)
+
+        Déterminer les métadonnées à attacher à chaque élément : nom, rôle, matériaux, étape, liens externes...
+
+    Script Python de base
+
+        Écrire un premier script pour parser une scène Blender et afficher les métadonnées des objets.
+
+        Définir une convention d’annotation dans Blender (via des custom properties, ou noms d’objets, ou tags).
+
+    Ajout des informations interactives
+
+        Intégrer dans Blender des liens et commentaires (via les Custom Properties par exemple).
+
+        Créer une interface ou un système pour afficher ces infos de manière lisible à l'utilisateur.
+
+    Fonctions automatisées
+
+        Développer des fonctions pour générer automatiquement les fiches de découpe selon les dimensions des pièces.
+
+        Intégrer des fonctions d’export : JSON, CSV ou PDF.
+
+    Démo et documentation
+
+        Créer un premier modèle simple (ex. : porte + mur + toono) avec les annotations et les fiches générées.
+
+        Écrire une documentation de prise en main (comment ouvrir le modèle, où cliquer, comment utiliser les scripts).
