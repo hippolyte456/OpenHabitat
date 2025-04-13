@@ -17,3 +17,16 @@ L'objectif est de centraliser toutes les informations nécessaires à la constru
         Calculs et visualisations adaptés à chaque configuration de yourte (diamètre, nombre de murs, etc.)
 
 Ce projet s’adresse à toute personne souhaitant construire sa yourte avec autonomie, efficacité et précision, en s’appuyant sur un outil libre, visuel et personnalisable.
+
+
+
+🔍 Projets similaires et sources d'inspiration
+
+    WikiHouse : projet open-source permettant de concevoir et construire des maisons à l'aide de fichiers téléchargeables et de machines CNC. Il vise à démocratiser la construction durable. ​
+    Wikipedia
+
+    FreeCAD : logiciel de modélisation 3D paramétrique open-source, adapté à la conception d'objets réels de toute taille. Il permet de modifier facilement un projet en ajustant ses paramètres. ​
+    freecad.org
+
+    Sweet Home 3D : logiciel libre pour concevoir des plans d’intérieurs facilement, avec une interface intuitive adaptée aux débutants.
+    MaMaisonPratique
