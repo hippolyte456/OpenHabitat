@@ -1,0 +1,7 @@
+graph TD
+    A[.blend file] --> B[Script Python Blender]
+    B --> C[Export .glb]
+    B --> D[Analyse des objets]
+    D --> E[Création de meta.json]
+    B --> F[Génération des cut_lists]
+    C & E & F --> G[Archive .openhab]
